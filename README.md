@@ -10,6 +10,8 @@ https://unityroom.com/games/fortonspace_scarynight
 - 制作期間：1週間
 - 担当箇所：全般（仕様策定、コーディング、アセット作成（画像・BGM）等）
 
+ (一部UI、アイコン等は汎用アセットを使用)
+
 ## 主な機能
 
 - タイマー
